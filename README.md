@@ -46,7 +46,7 @@ This repository contains an **Image Classification System** developed using deep
   ```bash
   pip install -r requirements.txt
 
-##📊 Visualizations
+📊 Visualizations
 Training and validation loss/accuracy plots for CIFAR-10 models.
 Interactive results with confidence scores for both models.
 📈 Training Results
